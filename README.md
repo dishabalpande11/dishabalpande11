@@ -3,7 +3,7 @@ Hi, I'm Disha Balpande, a Constant Learner and a Data Scientist| Data Analyst fr
 
 <b>Here's what you need to know about me :</b>
      
-    💼 Looking for Data Scientist | Data Analyst | Analyst opportunity .
+    👀 Looking for Data Scientist | Data Analyst | Analyst opportunity .
     💻 I'm learning data scientist tools (Data Analysis , Modeling , Deployment) .
     👨🏽‍💻 I’m currently working on GCP team , and working with differnt tool like Bigquery,Airflow. 
     🐍 I love to code in Python/SQL .
@@ -11,6 +11,8 @@ Hi, I'm Disha Balpande, a Constant Learner and a Data Scientist| Data Analyst fr
     📫 How to reach me: balpandedisha24@gmail.com .
     
  <b>Languages and Tools:</b>
+   💻 Python, SQL , PyTorch , Tensorflow , Git , Terminal ,  Airflow , Talend Studio 
+   💼 
    
   ![python](https://user-images.githubusercontent.com/107383468/175822708-43425691-c259-48a0-a9e0-dfc44f7349b9.png)  
   ![tensorflow](https://user-images.githubusercontent.com/107383468/175822719-794bfea1-f731-4f48-bdb0-a7c322ff69d6.png)
@@ -23,7 +25,4 @@ Hi, I'm Disha Balpande, a Constant Learner and a Data Scientist| Data Analyst fr
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-dishabalpande11/dishabalpande11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
