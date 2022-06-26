@@ -5,20 +5,14 @@ Hi, I'm Disha Balpande, a Constant Learner and a Data Scientist| Data Analyst fr
      
     💼 Looking for Data Scientist | Data Analyst | Analyst opportunity .
     💻 I'm learning data scientist tools (Data Analysis , Modeling , Deployment) .
-    👨🏽‍💻 I’m currently working on Computer vision technologies learning Object detection and Segmentation .
-    🌱 I’m currently researching and building AI Products.
+    👨🏽‍💻 I’m currently working on GCP team , and working with differnt tool like Bigquery,Airflow. 
     🐍 I love to code in Python/SQL .
     💬 Ask me about anything, I am happy to help .
     📫 How to reach me: balpandedisha24@gmail.com .
     
- 
-    💼 Looking for Data Scientist | Data Analyst | Analyst opportunity .
-    💻 I'm learning data scientist tools (Data Analysis , Modeling , Deployment) .
-    👨🏽‍💻 I’m currently working on Computer vision technologies learning Object detection and Segmentation .
-    🌱 I’m currently researching and building AI Products.
-    🐍 I love to code in Python/SQL .
-    💬 Ask me about anything, I am happy to help .
-    📫 How to reach me: balpandedisha24@gmail.com .
+ <b>Languages and Tools:</b>
+   
+  
     
 - Hi 👋 I'm <b><n3>Disha Balpande</h3></b>
 - 👀 I’m interested in <b>Data Scientist | Data Analyst </b>
