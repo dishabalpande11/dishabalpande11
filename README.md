@@ -15,7 +15,7 @@ Hi, I'm Disha Balpande, a Constant Learner and a Data Scientist| Data Analyst fr
    💼 Machine Learning : Statistics, Linear Regression, Logistic Regression, Ensemble Technique , Clustering, PCA, SVM <br>
    💼 Deep Learning/Computer Vision : ANN, CNN, Vgg, Resnet, Mobilenet, SSD <br>
  
-<b>Connect with me:</b>
+<b>Connect with me:</b><br>
 https://www.linkedin.com/in/dishabalpande/
 
 
