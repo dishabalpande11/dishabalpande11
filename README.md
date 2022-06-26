@@ -1,4 +1,4 @@
-Hi, I'm Disha Balpande, a Constant Learner and a Data Scientist| Data Analyst from India, Currently working as a Data Scientist 🙍🏽‍♂️ at DXC Technology . 
+Hi, I'm <b>Disha Balpande</b>, a Constant Learner and a Data Scientist| Data Analyst from India, Currently working as a Data Scientist 🙍🏽‍♂️ at DXC Technology . 
 
 
 <b>Here's what you need to know about me :</b><br>
